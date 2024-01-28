@@ -1,1 +1,1 @@
-# cli
+A simple movie renting API.
